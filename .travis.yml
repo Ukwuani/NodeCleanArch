@@ -1,3 +1,7 @@
 language: node_js
 node_js: 
 - "node"
+notifications:
+  emails:
+    - "ukwuanibarnabas@gmail.com"
+    - "claence.emy@gmail.com"
