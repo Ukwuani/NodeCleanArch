@@ -13,7 +13,7 @@
   "author": "UkB",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "jshint": "^2.10.3",
     "nodemon": "^2.0.1"
   }
